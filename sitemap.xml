@@ -61,4 +61,22 @@
 <url><loc>https://strivor.ma/migration-logiciels/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
 
 <url><loc>https://strivor.ma/confidentialite/</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+
+<url><loc>https://strivor.ma/logiciels/microsoft-project/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/microsoft-visio/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/sql-server/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/windows-11-pro/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/photoshop/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/illustrator/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/premiere-pro/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/freepik-premium/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/artlist/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/vesselfinder/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/editeurs/bricsys/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/editeurs/kaspersky/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/editeurs/tsplus/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/editeurs/google/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/editeurs/zoom/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/editeurs/freepik/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/editeurs/artlist/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
