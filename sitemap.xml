@@ -33,4 +33,14 @@
 <url><loc>https://strivor.ma/secteurs/btp-ingenierie/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 <url><loc>https://strivor.ma/secteurs/it-developpement/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 <url><loc>https://strivor.ma/mentions-legales/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+<url><loc>https://strivor.ma/licences-logiciels-maroc/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/marches-publics-logiciels/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/editeurs/microsoft/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/editeurs/adobe/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/editeurs/autodesk/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/editeurs/liferay/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/editeurs/jetbrains/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/editeurs/red-hat/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/editeurs/veeam/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
 </urlset>
