@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://strivor.ma/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<url><loc>https://strivor.ma/catalogue/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/logiciels/liferay-dxp/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/logiciels/microsoft-365/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/adobe-creative-cloud/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/autocad/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/intellij-idea-ultimate/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/red-hat-enterprise-linux/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/veeam-backup/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://strivor.ma/logiciels/bricscad-pro/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>
