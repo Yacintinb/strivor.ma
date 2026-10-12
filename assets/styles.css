@@ -53,3 +53,16 @@ footer{border-top:1px solid var(--line);padding:40px 0;color:var(--muted)}footer
 .partners-note{margin-top:22px;text-align:center;color:var(--muted);font-size:.85rem}
 @media(max-width:1000px){.partners-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:700px){.partners-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.partner-card{min-height:82px;font-size:.9rem;padding:12px}}
+
+/* Partner logos – premium responsive cards */
+.partner-logo-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:15px;margin-top:30px}
+.partner-logo-card{min-height:143px;background:#fff;border:1px solid #e8edf2;border-radius:15px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:18px 12px;box-shadow:0 4px 18px rgba(0,0,0,.08);transition:transform .2s ease,box-shadow .2s ease}
+.partner-logo-card:hover{transform:translateY(-5px);box-shadow:0 14px 28px rgba(0,0,0,.18)}
+.partner-logo-card img{width:56px;height:56px;object-fit:contain;flex-shrink:0}
+.partner-name{color:#192b41;text-align:center;font-weight:750;font-size:.94rem;line-height:1.2;overflow-wrap:anywhere}
+.partner-monogram{width:56px;height:56px;display:grid;place-items:center;background:#edf7f6;border-radius:12px;color:#087d77;font-weight:850;font-size:1.1rem}
+.partners-note{margin-top:22px;text-align:center;color:var(--muted);font-size:.85rem}
+@media(max-width:1050px){.partner-logo-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media(max-width:760px){.partner-logo-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}}
+@media(max-width:520px){.partner-logo-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.partner-logo-card{min-height:125px;padding:13px 8px}.partner-name{font-size:.82rem}}
+@media(prefers-reduced-motion:reduce){.partner-logo-card{transition:none}.partner-logo-card:hover{transform:none}}
