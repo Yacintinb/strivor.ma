@@ -86,4 +86,17 @@
 <url><loc>https://strivor.ma/services/deploiement-activation/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 <url><loc>https://strivor.ma/services/support-documentaire/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 <url><loc>https://strivor.ma/faq/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+<url><loc>https://strivor.ma/tma-applicative/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://strivor.ma/maintenance-applicative/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://strivor.ma/maintenance-logiciel/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://strivor.ma/support-applicatif/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://strivor.ma/infogerance-applicative/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://strivor.ma/reprise-application-tierce/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://strivor.ma/maintenance-corrective/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://strivor.ma/maintenance-preventive/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://strivor.ma/maintenance-evolutive/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://strivor.ma/audit-reprise-applicative/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://strivor.ma/contrat-tma/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+<url><loc>https://strivor.ma/tma-applicative-prix/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
 </urlset>
