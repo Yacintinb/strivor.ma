@@ -1,0 +1,29 @@
+# STRIVOR
+
+STRIVOR est une société marocaine de solutions IT, licences logicielles et tierce maintenance applicative.
+
+## TMA applicative
+- https://strivor.ma/tma-applicative/ — page principale TMA au Maroc
+- https://strivor.ma/expertise-tma/ — méthode de reprise et gouvernance
+- https://strivor.ma/audit-reprise-applicative/ — audit de reprise
+- https://strivor.ma/reprise-application-tierce/ — reprise d'une application développée par un autre prestataire
+- https://strivor.ma/maintenance-applicative/ — maintenance applicative
+- https://strivor.ma/maintenance-logiciel/ — maintenance logiciel métier
+- https://strivor.ma/support-applicatif/ — support applicatif
+- https://strivor.ma/mco-applicatif/ — maintien en condition opérationnelle
+- https://strivor.ma/contrat-tma/ — cadre d'un contrat TMA
+- https://strivor.ma/tma-applicative-prix/ — facteurs de coût d'une TMA
+
+## Ressources TMA
+- https://strivor.ma/ressources-tma/
+- https://strivor.ma/ressources-tma/matrice-sla/
+- https://strivor.ma/ressources-tma/checklist-audit-reprise/
+- https://strivor.ma/ressources-tma/rapport-mensuel/
+- https://strivor.ma/ressources-tma/plan-reversibilite/
+- https://strivor.ma/ressources-tma/cahier-des-charges/
+- https://strivor.ma/observatoire-tma-maroc/
+
+## Contact
+- Site: https://strivor.ma/
+- Email: contact@strivor.ma
+- Téléphone: +212 6 75 69 01 27
