@@ -111,4 +111,14 @@
 <url><loc>https://strivor.ma/maintenance-logiciel-metier/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
 <url><loc>https://strivor.ma/mco-applicatif/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
 <url><loc>https://strivor.ma/centre-services-applicatifs/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+<url><loc>https://strivor.ma/ressources-tma/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/ressources-tma/matrice-sla/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/ressources-tma/checklist-audit-reprise/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/ressources-tma/rapport-mensuel/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/ressources-tma/plan-reversibilite/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/ressources-tma/cahier-des-charges/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/ressources-tma/fiche-incident/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/observatoire-tma-maroc/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/tma-administrations-maroc/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
 </urlset>
