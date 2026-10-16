@@ -99,4 +99,16 @@
 <url><loc>https://strivor.ma/audit-reprise-applicative/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
 <url><loc>https://strivor.ma/contrat-tma/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
 <url><loc>https://strivor.ma/tma-applicative-prix/</loc><changefreq>monthly</changefreq><priority>0.95</priority></url>
+
+<url><loc>https://strivor.ma/tma-java/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/tma-php-laravel/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/tma-symfony/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/tma-dotnet/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/tma-react-angular/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/tma-nodejs/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/maintenance-application-web/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/maintenance-application-mobile/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/maintenance-logiciel-metier/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/mco-applicatif/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+<url><loc>https://strivor.ma/centre-services-applicatifs/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
 </urlset>
